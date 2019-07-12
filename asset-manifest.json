@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlekseiKorolev/ravenous/static/css/main.e7f47735.chunk.css",
+    "main.js": "/AlekseiKorolev/ravenous/static/js/main.897db05e.chunk.js",
+    "main.js.map": "/AlekseiKorolev/ravenous/static/js/main.897db05e.chunk.js.map",
+    "runtime~main.js": "/AlekseiKorolev/ravenous/static/js/runtime~main.ac958d31.js",
+    "runtime~main.js.map": "/AlekseiKorolev/ravenous/static/js/runtime~main.ac958d31.js.map",
+    "static/js/2.f0927397.chunk.js": "/AlekseiKorolev/ravenous/static/js/2.f0927397.chunk.js",
+    "static/js/2.f0927397.chunk.js.map": "/AlekseiKorolev/ravenous/static/js/2.f0927397.chunk.js.map",
+    "index.html": "/AlekseiKorolev/ravenous/index.html",
+    "precache-manifest.4bf80b65b0fdac18ad1c974412e6b7fb.js": "/AlekseiKorolev/ravenous/precache-manifest.4bf80b65b0fdac18ad1c974412e6b7fb.js",
+    "service-worker.js": "/AlekseiKorolev/ravenous/service-worker.js",
+    "static/css/main.e7f47735.chunk.css.map": "/AlekseiKorolev/ravenous/static/css/main.e7f47735.chunk.css.map",
+    "static/media/SearchBar.css": "/AlekseiKorolev/ravenous/static/media/background_search_mobile.5d0905e6.jpg"
+  }
+}
