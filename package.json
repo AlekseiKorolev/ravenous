@@ -2,7 +2,7 @@
   "name": "revenous",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AlekseiKorolev/ravenous",
+  "homepage": "https://alekseikorolev.github.io/ravenous/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -31,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
